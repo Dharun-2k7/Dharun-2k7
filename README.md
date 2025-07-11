@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Backend Development**, **AI Integration**, and **Cloud Technologies**  
 - 👯 I’m open to collaborate on **Full Stack, AI/ML**, and **DevOps** projects  
 - 🤝 I’m looking for guidance and mentorship in **Cloud Computing & DevOps**  
-- 📌 All of my projects are here: [**My GitHub**](https://github.com/Dharun-2k7)  
+- 📌 All of my projects are here: [**My GitHub**](https://github.com/Dharun-2k7)  😂
 - 📫 Reach me at **dharunkaarthick@gmail.com**
 
 ---
