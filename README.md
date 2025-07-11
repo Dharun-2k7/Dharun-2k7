@@ -17,11 +17,11 @@
 
 ---
 
-## 🚀 Featured Demo
+
 
 <!-- Replace the link below with your actual GIF or Project Demo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/your-gif-link-here.gif" alt="Project Demo GIF" width="600" />
+  <img src="https://tenor.com/en-GB/view/levi-attack-on-titan-levi-clean-window-levi-open-window-levi-window-gif-18877221" alt="Project Demo GIF" width="600" />
 </p>
 
 ---
