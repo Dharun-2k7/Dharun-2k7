@@ -21,7 +21,7 @@
 
 <!-- Replace the link below with your actual GIF or Project Demo -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/2f9691f7782fb12c0e176734c7d17c23/tumblr_inline_p1rak3O9Vg1rxn4ou_500.gifv" alt="Project Demo GIF" width="600" />
+  <img src="https://gifdb.com/gif/eren-yeager-i-keep-moving-forward-bgy8texh4br7gz8r.html" alt="Project Demo GIF" width="600" />
 </p>
 
 ---
