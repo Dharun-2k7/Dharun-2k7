@@ -13,7 +13,7 @@
 - 👯 I’m open to collaborate on **Full Stack, AI/ML**, and **Cloud** projects  
 - 🤝 I’m looking for guidance and mentorship in **Cloud Computing , DevOps & AI/ML **  
 - 📌 All of my projects are here: [**My GitHub**](https://github.com/Dharun-2k7)  😂
-- 📫 Reach me at **dharunkaarthick@gmail.com**
+- 📫 Reach me at **dharunks07@gmail.com**
 
 ---
 
