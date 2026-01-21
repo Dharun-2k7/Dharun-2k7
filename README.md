@@ -1,47 +1,145 @@
-<h1 align="center">Hi 👋, I'm Dharun Kaarthick S</h1>
-<h3 align="center">A Competitive Programmer exploring AI & Web Development</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharun-2k7&label=Profile%20views&color=0e75b6&style=flat" alt="dharun-2k7" /> </p>
+<h1 align="center">
+  🌌 Hi, I'm <span style="color:#00b4d8;">Dharun Kaarthick S</span>
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharun-2k7" alt="dharun-2k7" /></a> </p>
-
-- 🔭 I’m currently working on **Improving my problem-solving skills on Codeforces & AtCoder | Building small AI/Web projects**
-
-- 🌱 I’m currently learning **Advanced Theory in CP | Basics of ML models**
-
-- 👯 I’m looking to collaborate on **Competitive programming**
-
-- 🤝 I’m looking for help with **Advanced DP, Graphs, and Number Theory | Practical applications of AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dharun-2k7](https://github.com/Dharun-2k7)
-
-- 📫 How to reach me **dharunks07@gmail.com**
-
-
-
+<h3 align="center">
+  🚀 Competitive Programmer | 🧠 Problem Solver | 🤖 Exploring AI & Web
+</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/eren-yeager-i-keep-moving-forward-bgy8texh4br7gz8r.webp" alt="Project Demo GIF" width="600" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=I+solve+problems+for+fun;I+build+things+to+learn;Consistency+%3E+Motivation;Keep+Moving+Forward" />
 </p>
 
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dharun-kaarthick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharun-kaarthick" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dharunkaarthick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dharunkaarthick" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dharunkaarthick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dharunkaarthick" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dharun-2k7&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Dharun-2k7?label=Followers&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/Dharun-2k7?label=Stars&style=flat-square&color=yellow" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharun-2k7&show_icons=true&locale=en&layout=compact" alt="dharun-2k7" /></p>
+<!-- ===================== ABOUT ===================== -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharun-2k7&show_icons=true&locale=en" alt="dharun-2k7" /></p>
+<h2 align="center">✨ About Me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharun-2k7&" alt="dharun-2k7" /></p>
+<p align="center">
+I’m a <b>Competitive Programmer</b> who enjoys breaking problems apart,<br>
+thinking deeply, and turning ideas into working systems.<br><br>
+I believe in <b>learning by building</b> and <b>getting better every contest</b>.
+</p>
 
+<ul>
+  <li>🔭 Working on <b>Codeforces & AtCoder</b> problem-solving</li>
+  <li>🌱 Learning <b>Advanced CP (DP, Graphs, NT)</b> & <b>ML basics</b></li>
+  <li>👯 Open to <b>CP discussions & collaborations</b></li>
+  <li>🤝 Looking for guidance in <b>advanced algorithms & applied AI</b></li>
+</ul>
+
+---
+
+<!-- ===================== MOTIVATION ===================== -->
+
+<p align="center">
+  <img src="https://gifdb.com/images/high/eren-yeager-i-keep-moving-forward-bgy8texh4br7gz8r.webp" width="600"/>
+</p>
+
+<p align="center"><i>“If you don’t keep moving forward, you fall behind.”</i></p>
+
+---
+
+<!-- ===================== CP SECTION ===================== -->
+
+<h2 align="center">⚔️ Competitive Programming</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/CodeChef-3★-brown?style=for-the-badge&logo=codechef" />
+  <img src="https://img.shields.io/badge/LeetCode-Top%2022%25-orange?style=for-the-badge&logo=leetcode" />
+</p>
+
+<p align="center">
+🏆 ICPC Online Qualifier 2024 – Rank ~1027 / 3000+ teams <br>
+🏅 Algoutsav (NIT Rourkela) – Finalist
+</p>
+
+<p align="center">
+<b>Current Goal:</b> Reach <span style="color:#00b4d8;">Codeforces Expert</span>
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🛠️ Projects & Builds</h2>
+
+<p align="center">
+<b>Codesprint</b> – Online Judge & Contest Platform  
+</p>
+
+<p align="center">
+Go · PostgreSQL · Redis · Docker · Judge0  
+</p>
+
+<p align="center">
+Handles submissions, verdicts, leaderboards, and contest workflows.
+</p>
+
+<p align="center">
+<b>Daelora</b> – Career Guidance & Roadmap Platform  
+</p>
+
+<p align="center">
+Focused on clarity, decision-making, and structured growth.
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🧰 Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,java,js,html,css,linux,git,docker,postgres,redis,mysql,matlab" />
+</p>
+
+---
+
+<!-- ===================== STATS ===================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharun-2k7&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharun-2k7&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-2k7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/dharun-kaarthick">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://codeforces.com/profile/dharunkaarthick">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</a>
+<a href="https://leetcode.com/dharunkaarthick">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ <b>Consistency beats talent when talent doesn’t stay consistent.</b> ✨
+</p>
 
