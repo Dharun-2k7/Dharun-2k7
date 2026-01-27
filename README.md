@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Competitive Programmer | 🧠 Problem Solver | 🤖 Exploring AI & Web
+  🚀 Competitive Programmer | 🧠 Problem Solver | 🤖 Exploring AI , Automation & Backend
 </h3>
 
 <p align="center">
