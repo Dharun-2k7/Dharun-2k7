@@ -108,6 +108,10 @@ Focused on clarity, decision-making, and structured growth.
 
 <!-- ===================== STATS ===================== -->
 
+## GitHub Contributions Graph
+
+[![Dharun's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharun-2k7&theme=github-dark)](https://github.com/Dharun-2k7)
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
