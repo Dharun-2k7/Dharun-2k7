@@ -60,7 +60,7 @@ I believe in <b>learning by building</b> and <b>getting better every contest</b>
 </p>
 
 <p align="center">
-🏆 ICPC Online Qualifier 2024 – Rank ~1027 / 3000+ teams <br>
+🏆 ICPC Online Qualifier 2025 – Rank ~1027 / 3000+ teams <br>
 🏅 Algoutsav (NIT Rourkela) – Finalist
 </p>
 
